@@ -6,7 +6,7 @@
             "id": 1,
             "project_name": "Random Quote Generator",
             "description": "This displays a random quote when the user clicks ona button. ",
-            "technologies":"HTML,Javasctipt",
+            "technologies":["HTML","Javasctipt"],
             "live_link":" ",
             "github_link":" ",
             "images_urls":[]
@@ -15,7 +15,7 @@
             "id": 2,
             "project_name": "Data Pagination and Filtering",
             "description": "Paginated listing of sample user data",
-            "technologies":"HTML,Javascript",
+            "technologies":["HTML","Javascript"],
             "live_link":" ",
             "github_link":" ",
             "images_urls":[]
@@ -24,7 +24,7 @@
             "id": 3,
             "project_name": "Interactive Form",
             "description": "Sample Interactive Form that chaneges base on user input",
-            "technologies":"HTML,Javascript",
+            "technologies":["HTML","Javascript"],
             "live_link":" ",
             "github_link":" ",
             "images_urls":[]
@@ -34,7 +34,7 @@
             "id": 4,
             "project_name": "Phrase Hunter",
             "description": "",
-            "technologies":"HTML, Javascript",
+            "technologies":["HTML", "Javascript"],
             "live_link":"https://sheenasalmon.github.io/TTGameShow/",
             "github_link":" ",
             "images_urls":[]
@@ -43,7 +43,7 @@
             "id": 5,
             "project_name": "Public API Requests",
             "description": "Fetches user data from the sampa user api",
-            "technologies":"HTML, Javascript",
+            "technologies":["HTML", "Javascript"],
             "live_link":" ",
             "github_link":" ",
             "images_urls":[]
