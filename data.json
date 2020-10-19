@@ -9,7 +9,7 @@
             "technologies":["HTML","Javasctipt"],
             "live_link":" ",
             "github_link":" ",
-            "images_urls":[]
+            "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote3.png"]
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "technologies":["HTML","Javascript"],
             "live_link":" ",
             "github_link":" ",
-            "images_urls":[]
+            "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote.png"]
         },
         {
             "id": 3,
@@ -27,7 +27,7 @@
             "technologies":["HTML","Javascript"],
             "live_link":" ",
             "github_link":" ",
-            "images_urls":[]
+            "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote.png"]
         },
         {
 
@@ -37,7 +37,7 @@
             "technologies":["HTML", "Javascript"],
             "live_link":"https://sheenasalmon.github.io/TTGameShow/",
             "github_link":" ",
-            "images_urls":[]
+            "images_urls":["PhraseHunter1.png"]
         },
         {
             "id": 5,
@@ -46,7 +46,7 @@
             "technologies":["HTML", "Javascript"],
             "live_link":" ",
             "github_link":" ",
-            "images_urls":[]
+            "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote.png"]
         }
 
 
