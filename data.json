@@ -6,47 +6,47 @@
             "id": 1,
             "project_name": "Random Quote Generator",
             "description": "This displays a random quote when the user clicks ona button. ",
-            "technologies":["HTML","Javasctipt"],
-            "live_link":" ",
-            "github_link":" ",
+            "technologies":["HTML","Javascript","CSS"],
+            "live_link":"https://sheenasalmon.github.io/TTRandomQuoteGenerator/",
+            "github_link":"https://github.com/SheenaSalmon/TTRandomQuoteGenerator",
             "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote3.png"]
         },
         {
             "id": 2,
             "project_name": "Data Pagination and Filtering",
             "description": "Paginated listing of sample user data",
-            "technologies":["HTML","Javascript"],
-            "live_link":" ",
-            "github_link":" ",
-            "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote.png"]
+            "technologies":["HTML","Javascript","CSS"],
+            "live_link":"https://sheenasalmon.github.io/TTDataPaginationFiltering/",
+            "github_link":"https://github.com/SheenaSalmon/TTDataPaginationFiltering ",
+            "images_urls":["DataPag.png","DataPag1.png","DataPag2.png"]
         },
         {
             "id": 3,
             "project_name": "Interactive Form",
             "description": "Sample Interactive Form that chaneges base on user input",
-            "technologies":["HTML","Javascript"],
-            "live_link":" ",
-            "github_link":" ",
-            "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote.png"]
+            "technologies":["HTML","Javascript","CSS"],
+            "live_link":"https://sheenasalmon.github.io/TTInteractiveForm/",
+            "github_link":"https://github.com/SheenaSalmon/TTInteractiveForm",
+            "images_urls":["InteractiveForm.png","interactiveForm1.png"]
         },
         {
 
             "id": 4,
             "project_name": "Phrase Hunter",
-            "description": "",
-            "technologies":["HTML", "Javascript"],
+            "description": "Interactive game where the user can guess a phrase one letter at a time.",
+            "technologies":["HTML", "Javascript","CSS"],
             "live_link":"https://sheenasalmon.github.io/TTGameShow/",
-            "github_link":" ",
-            "images_urls":["PhraseHunter1.png"]
+            "github_link":"https://github.com/SheenaSalmon/TTGameShow",
+            "images_urls":["PhraseHunter1.png","PhraseHunter2.png","PhraseHunter3.png","PhraseHunter4.png","PhraseHunter5.png"]
         },
         {
             "id": 5,
             "project_name": "Public API Requests",
             "description": "Fetches user data from the sampa user api",
-            "technologies":["HTML", "Javascript"],
-            "live_link":" ",
-            "github_link":" ",
-            "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote.png"]
+            "technologies":["HTML", "Javascript","CSS"],
+            "live_link":"https://sheenasalmon.github.io/PublicAPIRequests/",
+            "github_link":"https://github.com/SheenaSalmon/PublicAPIRequests",
+            "images_urls":["UserAPI.png","UserAPI1.png","UserAPI2.png"]
         }
 
 
