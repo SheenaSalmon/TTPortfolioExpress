@@ -5,7 +5,7 @@
         {
             "id": 1,
             "project_name": "Random Quote Generator",
-            "description": "This displays a random quote when the user clicks ona button. ",
+            "description": "This displays a random quote when the user clicks on a button. ",
             "technologies":["HTML","Javascript","CSS"],
             "live_link":"https://sheenasalmon.github.io/TTRandomQuoteGenerator/",
             "github_link":"https://github.com/SheenaSalmon/TTRandomQuoteGenerator",
@@ -23,7 +23,7 @@
         {
             "id": 3,
             "project_name": "Interactive Form",
-            "description": "Sample Interactive Form that chaneges base on user input",
+            "description": "Sample Interactive Form that changes based on user input",
             "technologies":["HTML","Javascript","CSS"],
             "live_link":"https://sheenasalmon.github.io/TTInteractiveForm/",
             "github_link":"https://github.com/SheenaSalmon/TTInteractiveForm",
@@ -33,7 +33,7 @@
 
             "id": 4,
             "project_name": "Phrase Hunter",
-            "description": "Interactive game where the user can guess a phrase one letter at a time.",
+            "description": "Interactive game where the user can guess a phrase one letter at a time.  Users can type the letter using their keyboard, or select a letter from the onscreen keyboard.",
             "technologies":["HTML", "Javascript","CSS"],
             "live_link":"https://sheenasalmon.github.io/TTGameShow/",
             "github_link":"https://github.com/SheenaSalmon/TTGameShow",
@@ -42,7 +42,7 @@
         {
             "id": 5,
             "project_name": "Public API Requests",
-            "description": "Fetches user data from the sampa user api",
+            "description": "Fetches user data from a sample  user api",
             "technologies":["HTML", "Javascript","CSS"],
             "live_link":"https://sheenasalmon.github.io/PublicAPIRequests/",
             "github_link":"https://github.com/SheenaSalmon/PublicAPIRequests",

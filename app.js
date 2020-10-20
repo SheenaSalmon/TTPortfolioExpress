@@ -19,7 +19,7 @@ app.get('/',(req,res) =>{
 });
 
 
-// rout for the about page
+// route for the about page
 app.get('/about', (req, res) =>{
 
     res.render('about');
@@ -27,9 +27,9 @@ app.get('/about', (req, res) =>{
     
 });
 
-/*About the project page that dyanmically show the page base on the project id,  
+/*The project page that dyanmically show the page base on the project id,  
 sends the currently selected project based on its id  property
-Uses regualar expressions to math project or projects */
+Uses regular expressions to math project or projects */
 
 app.get('/project(s)?/:id',(req,res,next) => {
     const projectID = req.params.id;
