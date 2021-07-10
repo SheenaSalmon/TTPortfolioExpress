@@ -3,7 +3,7 @@
 
     [
         {
-            "id": 1,
+            "id": 0,
             "project_name": "Random Quote Generator",
             "description": "This displays a random quote when the user clicks on a button. ",
             "technologies":["HTML","Javascript","CSS"],
@@ -12,7 +12,7 @@
             "images_urls":["RandomQuote.png","RandomQuote2.png","RandomQuote3.png"]
         },
         {
-            "id": 2,
+            "id": 1,
             "project_name": "Data Pagination and Filtering",
             "description": "Paginated listing of sample user data",
             "technologies":["HTML","Javascript","CSS"],
@@ -21,7 +21,7 @@
             "images_urls":["DataPag.png","DataPag1.png","DataPag2.png"]
         },
         {
-            "id": 3,
+            "id": 2,
             "project_name": "Interactive Form",
             "description": "Sample Interactive Form that changes based on user input",
             "technologies":["HTML","Javascript","CSS"],
@@ -31,7 +31,7 @@
         },
         {
 
-            "id": 4,
+            "id":3,
             "project_name": "Phrase Hunter",
             "description": "Interactive game where the user can guess a phrase one letter at a time.  Users can type the letter using their keyboard, or select a letter from the onscreen keyboard.",
             "technologies":["HTML", "Javascript","CSS"],
@@ -40,7 +40,6 @@
             "images_urls":["PhraseHunter1.png","PhraseHunter2.png","PhraseHunter3.png","PhraseHunter4.png","PhraseHunter5.png"]
         },
         {
-            "id": 5,
             "project_name": "Public API Requests",
             "description": "Fetches user data from a sample  user api",
             "technologies":["HTML", "Javascript","CSS"],
